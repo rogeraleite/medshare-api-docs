@@ -1,0 +1,13 @@
+openapi: 3.1.0
+info:
+  title: MedShare API
+  version: 0.1.0-draft
+  description: |
+    **PT-BR** — API do MedShare para parceiros: cirurgias e faturamento de
+    grupos de anestesia, com OAuth2 e webhooks. Contrato em elaboração; os
+    endpoints serão publicados aqui em breve.
+
+    **EN** — MedShare partner API: surgeries and billing for anesthesia
+    groups, with OAuth2 and webhooks. Contract in progress; endpoints will be
+    published here soon.
+paths: {}
